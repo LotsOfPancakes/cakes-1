@@ -1,1 +1,7 @@
-aaa
+{
+  "name": "pancakesNode",
+  "website": "https://twitter.com/allmightymate",
+  "description": "For the love of pancakes & eigenlayer I'm here to run a node!",
+  "logo": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/6220.png",
+  "twitter": "https://twitter.com/allmightymate"
+}
